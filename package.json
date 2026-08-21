@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-moments",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "AI 的朋友圈 —— DeepSeek 蓝色大肥鱼每天根据真实任务自动发朋友圈的 DSH 插件：LLM 生成文案（严格基于事实清单）、真实终端/代码九宫格、表情包自拍、仿微信 UI、可点赞评论，AI 会用人设回你。",
   "license": "MIT",
   "type": "module",
